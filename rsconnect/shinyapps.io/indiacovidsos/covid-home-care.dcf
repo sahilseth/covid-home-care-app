@@ -1,0 +1,13 @@
+name: covid-home-care
+title: covid-home-care
+username:
+account: indiacovidsos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4086045
+bundleId: 4565700
+url: https://sethsa.shinyapps.io/covid-home-care/
+when: 1620313481.00724
+lastSyncTime: 1620313481.00725
+asMultiple: FALSE
+asStatic: FALSE
